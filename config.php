@@ -46,7 +46,16 @@ $data = array(
 	        'init'    => 'contact-form-7/wp-contact-form-7.php',
 	        'name'    => 'Contact Form 7',
 	      ),
-
+          array(
+            'slug'    => 'yith-woocommerce-wishlist',
+            'init'    => 'yith-woocommerce-wishlist/init.php',
+            'name'    => 'YITH WooCommerce Wishlist',
+          ),
+          array(
+            'slug'    => 'yith-woocommerce-quick-view',
+            'init'    => 'yith-woocommerce-quick-view/init.php',
+            'name'    => 'YITH WooCommerce Quick View',
+          ), 
 	    ),
 	  ),
 	),
